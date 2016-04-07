@@ -11,7 +11,7 @@ Alternately, serving as a Wi-Fi adapter, wireless internet access can be added t
 * [Arduino uno](http://arduino.cc/en/Main/ArduinoBoardUno)
 * [A ESP8266](http://www.aliexpress.com/wholesale?catId=0&initiative_id=AS_20160302130000&SearchText=esp8266)
 * [Arduino IDE 1.6.0 or higher](https://www.arduino.cc/en/Main/Software)
-* [Ubidots Arduino ESP8266 library](https://github.com/ubidots/ubidots-esp8266/archive/master.zip)
+* [Ubidots Arduino ESP8266 library]https://github.com/gamo256/esp8266-ubidots/archive/master.zip)
 
 
 ## Setup
@@ -25,7 +25,7 @@ Alternately, serving as a Wi-Fi adapter, wireless internet access can be added t
     * 3.3V --------> CH_PD
     * GND  --------> GND
 
-2. Download the UbidotsESP8266 library [here](https://github.com/ubidots/ubidots-esp8266/archive/master.zip)
+2. Download the UbidotsESP8266 library [here](https://github.com/gamo256/esp8266-ubidots/archive/master.zip)
 3. Go to the Arduino IDE, click on **Sketch -> Include Library -> Add .ZIP Library**
 4. Close the Arduino IDE and open it again.
 
