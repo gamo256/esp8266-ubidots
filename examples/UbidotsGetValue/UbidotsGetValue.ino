@@ -20,6 +20,6 @@ void setup() {
 
 void loop() {
   float value;
-  // Send one value
+  // get one value
   value = client.getValue(ID);
 } 
